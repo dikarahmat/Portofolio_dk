@@ -1,4 +1,4 @@
-# Portofolio DK
+# Portofolio dk
 
 Halo! 👋 Saya **Dika Rahmat Fadillah**. Ini adalah website portofolio yang saya bangun menggunakan React dan Supabase, dilengkapi dengan admin dashboard.
 
