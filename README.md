@@ -47,14 +47,4 @@ npm run dev
 | **Admin** | CRUD proyek & sertifikat, kelola komentar |
 
 ---
-
-## 📬 Kontak
-
-**Dika Rahmat Fadillah**
-
-- GitHub: [dikarahmat](https://github.com/dikarahmat)
-- LinkedIn: [dika-rahmat-fadillah](https://www.linkedin.com/in/dika-rahmat-fadillah-43a68231a/)
-- Instagram: [@paparazzziii_](https://www.instagram.com/paparazzziii_)
-- Email: dikarahmat998@gmail.com
-
 ⭐ Jangan lupa kasih star kalau project ini membantu!
