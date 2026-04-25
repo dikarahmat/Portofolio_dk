@@ -4,7 +4,7 @@ import { Modal, IconButton, Box, Backdrop, Typography } from "@mui/material"
 import CloseIcon from "@mui/icons-material/Close"
 import FullscreenIcon from "@mui/icons-material/Fullscreen"
 
-const Certificate = ({ certificateSrc }) => {
+const Certificate = ({ ImgSertif: certificateSrc }) => {
 	const [open, setOpen] = useState(false)
 
 	const handleOpen = () => {
